@@ -7,7 +7,7 @@ A decentralized QR paycode marketplace connecting global payment systems through
 
 ## Overview
 
-QR2P2P enables seamless cross-border payments by allowing users to upload QR codes from local fiat payment systems (PromptPay, QRIS, UPI, etc.) and have them paid by "Earners" who are compensated in Bitcoin, Lightning, or eCash. This creates a bridge between traditional payment rails and the Bitcoin economy.
+QR2P2P enables cross-border payments by allowing users to upload QR codes from local fiat payment systems (PromptPay, QRIS, UPI, etc.) and have them paid by "Earners" who are compensated in Bitcoin, Lightning, or eCash. This creates a bridge between traditional payment rails and the Bitcoin economy.
 
 ## Key Features
 
